@@ -6,5 +6,6 @@ Extracted Codex pet packages from Downloads.
 
 - boomcat
 - chengyaojin
-- ichihime
+- ichihime (pixel)
+- ichihime-highres (high-res non-pixel Ichihime)
 - xiaoqiao
