@@ -1,0 +1,7 @@
+{
+  "id": "ichihime-highres",
+  "displayName": "Ichihime",
+  "description": "High-resolution non-pixel version of Ichihime, a chibi cat-eared shrine maiden pet in peach kimono sleeves and plum hakama.",
+  "spritesheetPath": "spritesheet.webp",
+  "kind": "person"
+}
