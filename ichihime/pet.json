@@ -1,0 +1,7 @@
+{
+  "id": "ichihime",
+  "displayName": "Ichihime",
+  "description": "Cartoon chibi pet based on MahjongSoul Ichihime.",
+  "spritesheetPath": "spritesheet.webp",
+  "kind": "person"
+}
